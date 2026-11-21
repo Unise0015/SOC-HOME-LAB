@@ -18,3 +18,6 @@ See the `/docs` folder for setup steps, architecture details, and notes on chall
 
 ## Getting Started
 Refer to [Setup-Instructions.md](docs/Setup-Instructions.md) for deployment and configuration steps.
+
+## License
+MIT License.
