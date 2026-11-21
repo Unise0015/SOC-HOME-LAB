@@ -26,5 +26,3 @@ Each VM has two network interfaces to keep monitoring traffic separate from atta
 - Used for controlled reconnaissance (Nmap) and brute-force attacks.
 - Generates traffic and artifacts for detection testing.
 
-## Network Diagram
-![SOC Lab Network Diagram](../images/network_diagram.png)
